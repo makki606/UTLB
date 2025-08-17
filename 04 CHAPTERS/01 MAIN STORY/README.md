@@ -207,32 +207,37 @@ O “I do enjoy it. But i also realized i like working here.”
 S “Next month im turning u into an official employee then Congrats!”
 
 -
+
 Choose:
+
     A) Send him home / say youre tired and want to rest (friend+1)
+    
     B) Ask him to keep you company (love+1)
 
 
 Choose:
-    A) Take him to the greenhouse (love+1)
+      
+      A) Take him to the greenhouse (love+1)
+      mention behorehand that the greenhouse is a special place for her and that she never let anyone in before, its her secret base
+      
+      B) Ask for help at an errand (friend+1)
 
-    mention behorehand that the greenhouse is a special place for her and that she never let anyone in before, its her secret base
-
-    B) Ask for help at an errand (friend+1)
-
-
-
-Choose:
-    A) Listen to Yzra and take him home (friend+1)
-    seleni never knows his true form
-
-    B) Go againsy Yzra's wishes and take care of him yourself (love+1)
-    this reveals that hes Orath
 
 
 Choose:
-    A\) Ask him to give you some time to think (love+1)
 
-    B\) Refuse (love-1 friend+1)
+      A) Listen to Yzra and take him home (friend+1)
+      seleni never knows his true form
+      
+      B) Go againsy Yzra's wishes and take care of him yourself (love+1)
+      this reveals that hes Orath
+
+
+Choose:
+    
+      A) Ask him to give you some time to think (love+1)
+  
+      B) Refuse (love-1 friend+1)
 
 
 -
