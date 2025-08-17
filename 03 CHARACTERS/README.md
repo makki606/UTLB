@@ -2,27 +2,36 @@
 
 ## SELENI
 
-**Name**: Seleni
+**Name**: 
+Seleni
 
-**Aka**: Syllin (Elf child name), Sel, Lady Sheep
+**Aka**: 
+Syllin (Elf child name), Sel, Lady Sheep
 
-**Species/Race**: Satyress
+**Species/Race**: 
+Satyress
 
-**Age**: +1000
+**Age**: 
++1000
 
-**Birthday**: May 2
+**Birthday**: 
+May 2
 
-**Body build**: Tall, average weight, toned.
+**Body build**: 
+Tall, average weight, toned.
 
-**Personality**: Neutral Lawful-leaning good
+**Personality**:
+Neutral Lawful-leaning good
 
 Extrovert and outgoing, creative, earnest, life of the party, kind, always eager to help.
 
 Impulsive, yapper when excited, noisy, sometimes inattentive. 
 
-**Status**: Alive
+**Status**:
+Alive
 
-**Occupation**: Pharmacist
+**Occupation**: 
+Pharmacist
 
 **Relationships**: 
     - Aadien (goddess)
@@ -37,7 +46,8 @@ Impulsive, yapper when excited, noisy, sometimes inattentive.
     - Healing Chant
     - Speak to Animal
 
-**Creation date**: May 2020
+**Creation date**: 
+May 2020
 
 
 ## OR'ATH
