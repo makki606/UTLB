@@ -40,10 +40,13 @@ Pierce and Linnett are characters I introduced later in the story. In the first 
 Finally, in this month (May 2022), I started developing the characters more and trying to go on with the story. 
 
 I gave it a title since it had none: TILL THE LILY BLOOMS 
-  - **Lilies represent Seleni, besides being her favourite flower, the orange Lily represents death and the white one birth I think.**
-  - In the current story, Seleni's body was chosen as Margareth's vessel so they could possess her body and reunite with Lilith. So, once in a while, Seleni has the same nightmare, because it's like Margareth manifesting their power inside Seleni, trying to take over. In the nightmare, there is a single white Lily seed that is slowly growing and it grows a little each nightmare she has. 
-  - Therefore, when the Lily blooms in Seleni's nightmare, Margareth will be able to possess her body and her soul will fade away to give space to the demigod.  
-This story happens in the DnD universe with Greek/Roman mythology traits and my own changes and additions to fit my liking and flow of the plot. 
+    - **Lilies represent Seleni, besides being her favourite flower, the orange Lily represents death and the white one birth I think.**
+    
+    - In the current story, Seleni's body was chosen as Margareth's vessel so they could possess her body and reunite with Lilith. So, once in a while, Seleni has the same nightmare, because it's like Margareth manifesting their power inside Seleni, trying to take over. In the nightmare, there is a single white Lily seed that is slowly growing and it grows a little each nightmare she has. 
+    
+    - Therefore, when the Lily blooms in Seleni's nightmare, Margareth will be able to possess her body and her soul will fade away to give space to the demigod.  
+  
+  This story happens in the DnD universe with Greek/Roman mythology traits and my own changes and additions to fit my liking and flow of the plot. 
 
 **2024.Jul.11** – I was hit with a sudden burst of motivation to plan this novel better and possibly rewrite it in a near future. Give me 3 months to try and write everything I need to finally complete this story. I have had it in my mind for so long (about 4 years), I’m dying to write everything down.
 
