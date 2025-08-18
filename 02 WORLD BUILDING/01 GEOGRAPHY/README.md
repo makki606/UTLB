@@ -1,6 +1,7 @@
 # GEOGRAPHY
 
-The world of Lunætta is divided in 3 main Planes of Existence: 
+The world of Lunætta is divided in 3 main Planes of Existence:
+
     • ADDAMAH 
     • CAELUM
     • TARTARUM
