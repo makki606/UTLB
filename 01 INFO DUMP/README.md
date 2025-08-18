@@ -27,6 +27,7 @@ She sailed off far away.
 She enrolled in a pharmacy school where she studied a lot but she sank in student debt. She used to live in a sharehouse and made a living by attending and healing sick people at the house. Her other housemates didn’t like the commotion every week so they expelled her. With no money to make, she was living in the streets where she was found by the smoothbread family who took care of her and offered a place to stay before she could stay on her feet. 
 
 Finally, she got a building in the same street as the smoothbread bakery and opened her pharmacy there, where she kept working ever since.
+
 Some media I got inspo from:
 
 Uncanny Charm (manhwa) → Seleni’s backstory it has youkai, korean, legends n myths about paradise n earth n underworld
